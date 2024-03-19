@@ -1,3 +1,5 @@
+Link to this repo: https://github.com/AshokSivathayalan/COMP3005-Assignment3/blob/master/README.txt
+
 VIDEO DEMONSTRATION: https://youtu.be/idkk9qW0DSo
 
 SETTING UP DATABASE:
