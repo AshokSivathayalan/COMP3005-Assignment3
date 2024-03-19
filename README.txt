@@ -1,3 +1,5 @@
+VIDEO DEMONSTRATION: https://youtu.be/idkk9qW0DSo
+
 SETTING UP DATABASE:
 
 Needs Postgresql & pgAdmin4. 
